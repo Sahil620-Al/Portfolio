@@ -32,13 +32,15 @@ It showcases my skills, projects, and contact details in a clean and modern desi
 - style.css → Styling
 - script.js → Functionality
 
+Code
+
+<img width="1366" height="768" alt="Screenshot from 2026-02-16 13-48-17" src="https://github.com/user-attachments/assets/79f86446-ab85-4b4c-967d-9a6aec453152" />
+
+
 📸 Output
 
-(Add website screenshot here)
+<img width="1366" height="768" alt="Screenshot from 2026-02-16 13-52-40" src="https://github.com/user-attachments/assets/21fff050-93f9-4553-991e-75ac52195302" />
 
-🚀 Live Preview (Optional)
-
-(Add GitHub Pages link if deployed)
 
 ⭐ Author
 
