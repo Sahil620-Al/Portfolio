@@ -1,0 +1,38 @@
+body {
+    font-family: Arial;
+    margin: 0;
+}
+
+header {
+    background: black;
+    color: white;
+    padding: 15px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+}
+
+.hero {
+    text-align: center;
+    padding: 50px;
+    background: lightblue;
+}
+
+section {
+    padding: 40px;
+}
+
+input, textarea {
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    width: 100%;
+}
